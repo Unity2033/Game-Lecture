@@ -1,4 +1,5 @@
-﻿#include <iostream>  
+﻿#include "Ghost.h"
+#include <iostream>  
 
 using namespace std;
 
