@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{8F635FDA-8921-499D-B93A-E77D7689EB3D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{249E35A7-30CC-4BB9-A435-DDF56E844553}|..\\Class14th (Container Adapter)\\Class14th (Container Adapter).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language\\Class14th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7A057-7E19-434B-BEAF-35C5136D2470}|..\\Class13th (Linear Container)\\Class13th (Linear Container).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language\\Class13th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3625E211-2001-46DF-82AC-B5919EE978F4}|..\\Class12th (Template)\\Class12th (Template).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language\\Class12th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -89,11 +95,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class14th (Container Adapter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class14th (Container Adapter)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class14th (Container Adapter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class14th (Container Adapter)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T10:23:33.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class13th (Linear Container)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class13th (Linear Container)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class13th (Linear Container)\\Source.cpp",
+              "RelativeToolTip": "..\\Class13th (Linear Container)\\Source.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T09:04:06.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class12th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Template)\\Source.cpp",
@@ -105,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class11th (Smart Pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Smart Pointer)\\Source.cpp",
@@ -117,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class10th (Friend)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class10th (Friend)\\Source.cpp",
@@ -129,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -141,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Marine.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Marine.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.cpp",
@@ -153,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Terran.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Terran.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.cpp",
@@ -165,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Ghost.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Ghost.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.h",
@@ -177,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Firebet.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Firebet.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.h",
@@ -189,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Marine.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Marine.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.h",
@@ -201,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Terran.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Terran.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.h",
@@ -213,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Source.cpp",
@@ -225,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Keyboard.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Keyboard.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.h",
@@ -237,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Mouse.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Mouse.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.cpp",
@@ -249,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Mouse.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Mouse.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.h",
@@ -261,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Source.cpp",
@@ -279,14 +311,14 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T09:10:21.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Ghost.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Ghost.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.cpp",
@@ -298,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class9th (Operator Overloading)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Operator Overloading)\\Source.cpp",
@@ -310,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -322,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Firebet.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class8th (Object Slice)\\Firebet.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.cpp",
@@ -334,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class6th (Pure Virtual Function)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Pure Virtual Function)\\Source.cpp",
@@ -346,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Computer.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Computer.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.h",
@@ -358,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
@@ -370,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Computer.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Computer.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.cpp",
@@ -382,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Keyboard.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
@@ -394,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
