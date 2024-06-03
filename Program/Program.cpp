@@ -1,107 +1,118 @@
 ﻿#include <iostream>
+#include <conio.h>
+#include <windows.h>
 
 using namespace std;
 
-class Item
+#define UP    72
+#define LEFT  75
+#define RIGHT 77
+#define DOWN  80
+
+void Position(int x, int y)
+{
+    COORD position = { x,y };
+
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), position);
+}
+
+class Input
 {
 private:
-    int price;
-
+    int x;
+    int y;
+    char key;
+    const char * shape;
 public:
-    Item(int price)
+    Input()
     {
-        cout << "Constructor" << endl;
-        this->price = price;
+        x = 0;
+        y = 1;
+        shape = "△";
     }
 
-    Item(Item & item)
+    void Renderer()
     {
-        cout << "Copy Constructor" << endl;
-        price = item.price;
+        Position(x, y);
+
+        cout << shape;
+    }
+
+    void GetKey()
+    {
+        key = _getch();
+
+        if (key == -32)
+        {
+            key = _getch();
+
+            switch (key)
+            {
+            case UP     : y -= 2;
+                 break;
+            case LEFT   : x -= 2;
+                 break;
+            case RIGHT  : x += 2;
+                 break;
+            case DOWN   : y += 2;
+                 break;
+            }
+            
+        }
+
     }
 };
 
-class Card
-{    
-public :
-    virtual void Show() = 0;
-    virtual void Skill() = 0;
-    virtual void Effect() = 0;
-};
 
-class Legend : Card
+class Inventory
 {
+private:
+    int size;
+    int width;
+
+    Input input;
 public:
-   void Show() override
-   {
-       cout << "Legend Card" << endl;
-   }
-
-   void Skill()  override
-   {
-       cout << "Legend Skill" << endl;
-   }
-
-   void Effect() final
-   {
-       cout << "Legend Effect" << endl;
-   }
-};
-
-class Unique : Legend
-{
-public :
-    Unique()
+    Inventory(int size, int width)
     {
-      
+        this->size = size;
+        this->width = width;
     }
 
-    // void Effect() override { cout << "Unique Effect" << endl; }
+    void Update()
+    {
+        input.GetKey();
+    }
+
+    void Renderer()
+    {
+        Position(0, 0);
+
+        for (int i = 0; i < size; i++)
+        {
+            if (i != 0 && i % width == 0)
+            {
+                cout << endl << endl;
+            }
+
+            cout << "□";
+        }
+
+        input.Renderer();
+    }
 };
 
 int main()
 {
-#pragma region R Value & L Value
+    Inventory inventory(12, 4);
 
-    // L value Type
-    /*
-    int data = 10;
+    while (true)
+    {
+        inventory.Renderer();
 
-    int & left1 = data;
-    int & left2 = 20;
-   */
+        inventory.Update();
 
-    // R value Type
-    /*
-    int count = 0;
-
-    int && right1 = 10;
-    //int && right2 = count;
-
-    right1 = 30;
-
-    cout << "right1의 값 : " << right1 << endl;
-    */
-
-#pragma endregion
-
-#pragma region 복사 생략 (Copy Elision)
-    // 함수의 반환 값을 모두 사용하거나 초기화하는 경우에
-    // 생기는 불필요한 임시 객체를 최적화하거나 제거하는데
-    // 사용되는 컴파일러 기술입니다.
-
-    // Item item1(10000);
-
-    // Item item2(item1);
-#pragma endregion
-
-#pragma region final
-
-
-#pragma endregion
-
-
-
+        system("cls");
+    }
 
     return 0;
 }
