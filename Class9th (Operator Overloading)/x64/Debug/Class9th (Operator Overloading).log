@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Administrator\Desktop\C-Language\Class9th (Operator Overloading)\Source.cpp(61,1): warning C4717: 'operator*': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
-  Class9th (Operator Overloading).vcxproj -> C:\Users\Administrator\Desktop\C-Language\Program\x64\Debug\Class9th (Operator Overloading).exe
