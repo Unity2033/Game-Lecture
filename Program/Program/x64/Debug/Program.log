@@ -1,2 +1,3 @@
 ﻿  Source.c
-  Program.vcxproj -> C:\Users\Administrator\Desktop\Program\x64\Debug\Program.exe
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\Source.c(65,12): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+  Program.vcxproj -> C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\x64\Debug\Program.exe
