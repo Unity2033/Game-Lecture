@@ -1,8 +1,2 @@
 ﻿  Source.c
-C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\Source.c(74,10): warning C4133: '=': 'float *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
-C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\Source.c(76,13): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\Source.c(83,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-  C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\Source.c(83,9):
-  서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
-  
   Program.vcxproj -> C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\x64\Debug\Program.exe
