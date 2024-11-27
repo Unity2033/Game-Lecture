@@ -1,104 +1,89 @@
 #include <stdio.h> 
 
+void Function()
+{
+	printf("Function...\n");
+}
+
+void Position(int x, int y)
+{
+	printf("x의 값 : %d\n", x);
+	printf("y의 값 : %d\n", y);
+}
+
+int Compare(float x, float y)
+{
+	if (x < y)
+	{
+		return 1;
+	}
+	else if (x == y)
+	{
+		return 0;
+	}
+	else
+	{
+		return -1;
+	}
+}
+
+void Swap(int left, int right)
+{
+	int temporary = left;
+
+	left = right;
+
+	right = temporary;
+}
+
 void main()
 {	
-#pragma region 배열
-	// 같은 자료형의 변수들로 이루어진 유한 집합입니다.
+#pragma region 함수
+	// 하나의 특별한 목적의 작업을 수행하기 위해
+	// 독립적으로 설계된 코드의 집합입니다.
 
-	// int array[3];
+	// Function();
 	// 
-	// array[0] = 10;
-	// array[1] = 20;
-	// array[2] = 30;
-
-	// 배열은 원하는 원소에 원하는 값을 저장할 수 있으며,
-	// 배열의 크기는 컴파일이 되는 시점부터 고정된 메모리
-	// 공간을 가지게 됩니다.
-
-	// int size = sizeof(array) / sizeof(int);
-	//  
-	// for (int i = 0; i < size; i++)
-	// {
-	// 	printf("array[%d] = %d\n", i, array[i]);
-	// }
-
-	// 배열의 경우 첫 번째 원소는 0부터 시작합니다.
-
-	//	float list [ ] = { 1.25f, 2.75f, 3.575f, 4.895f };
-	//	
-	//	for (int i = 0; i < 4; i++)
-	//	{
-	//		printf("list[%d] = %f\n", i, list[i]);
-	//	}
-
-	// 배열의 크기는 생략할 수 있으며, 초기화 목록에서 
-	// 설정한 요소에 따라 배열의 크기가 결정됩니다.
-
-	// float * pointer = list;
+	// Function();
 	// 
-	// pointer = pointer + 2;
-	// 
-	// *pointer = 7.875f;
-	// 
-	// printf("list[2] = %f\n", list[2]);
-	// 
-	// printf("pointer의 값 = %p\n", pointer);
-	// printf("list[2]의 주소 = %p\n", &list[2]);
+	// Function();
 
-	// 배열은 연속적인 메모리 공간을 가지며, 배열의 이름은
-	// 배열의 시작 주소를 가리킵니다.
-
+	// 함수의 경우 자료형과 반환하는 값의 형태가
+	// 일치하지 않으면 원하는 값을 얻을 수 없습니다.
 #pragma endregion
 
-#pragma region 문자열
-	// 연속적인 메모리 공간에 저장된 문자 변수의
-	// 집합입니다.
+#pragma region 매개 변수
+	// 함수의 정의에서 전달받은 인수를 함수 내부로
+	// 전달하기 위해 사용하는 변수입니다.
 
-	// const char * string = "Queue";
-	// 
-	// printf("string 변수의 값 : %s\n", string);
-	// 
-	// string = "Stack";
-	// 
-	// printf("string 변수의 값 : %s\n", string);
+	// Position(5, 5);
 
-	// 문자열의 경우 포인터를 이용하여 문자열 상수를 가리키도록 할 수 있으며,
-	// 문자열 상수는 데이터 영역의 읽기 전용 공간에 저장되기 때문에 문자열
-	// 의 값을 변경할 수 없습니다.
+	// // 매개 변수는 함수 내부에서만 연산이 이루어지며,
+	// // 함수가 종료되면 메모리에서 사라집니다.
 
-	// char word [ ] = { "Darkness" };
-	// char content [ ] = { "GitHub" };
-	// 
-	// printf("string 변수의 크기 : %u\n", sizeof(word));
+	// printf("Compare 함수의 값 : %d\n", Compare(5.75f, 8.125f));
 
-	// 문자열은 공백도 함께 메모리 공간에 포함하여 크기가
-	// 결정되며, 마지막에 문자열의 끝을 알려주는 제어
-	// 문자가 추가됩니다.	  
-
-	 // word[4] = '\0';
-	 // 
-	 // printf("word 배열의 값 : %s\n", word);
-
-	 // word = content;
-	 
-	 // 문자열의 경우 서로 연속적인 메모리 공간으로 연결되어
-	 // 있지만, 문자 배열 사이에 무효의 문자를 넣게 되면
-	 // 무효의 문자까지만 출력합니다.
-
+	// 하나의 함수에 서로 다른 자료형의 매개 변수를
+	// 함께 정의할 수 있으며, 여러 개의 매개 변수를
+	// 생성하여 사용할 수 있습니다.
 #pragma endregion
 
-#pragma region ASCII 코드
-	// 미국 ANSI 에서 표준화한 정보 교환용 7 bit 부호 체계입니다.
+#pragma region 인수
+	// 함수가 호출될 때 매개 변수에 실제로 전달되는
+	// 값입니다.
 
-	// char alphabet = 65;
+	int a = 10;
+	int b = 20;
 
-	// printf("%c", alphabet);
+	Swap(a, b);
 
-	//	for (int i = 0; i < 26; i++)
-	//	{
-	//		printf("%c ", 'A' + i);
-	//	}
+	printf("a의 값 : %d\n", a);
+	printf("b의 값 : %d\n", b);
 
+	// 인수의 경우 함수에 있는 매개 변수의 수에 따라
+	// 전달할 수 있는 인수의 수가 결정되며, 값을 전달하는
+	// 인수와 값을 전달받는 매개 변수의 자료형이 서로 일치해야 합니다.
 #pragma endregion
+
 
 }
