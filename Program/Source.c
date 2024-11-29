@@ -1,134 +1,95 @@
 #include <stdio.h> 
 
-void Function()
+int count;
+
+int stage = 1;
+
+void Clear()
 {
-	printf("Function...\n");
+	stage += 1;
 }
 
-void Position(int x, int y)
+void Increase()
 {
-	printf("x의 값 : %d\n", x);
-	printf("y의 값 : %d\n", y);
-}
+	static int score = 0;
 
-int Compare(float x, float y)
-{
-	if (x < y)
-	{
-		return 1;
-	}
-	else if (x == y)
-	{
-		return 0;
-	}
-	else
-	{
-		return -1;
-	}
-}
+	score++;
 
-void Swap(int * left, int * right)
-{
-	int temporary = *left;
-
-	*left = *right;
-
-	*right = temporary;
-}
-
-inline void Process(float progress)
-{
-	printf("Progress : %f\n", progress);
-
-	// 인라인 함수는 컴파일 시점에 확장되며, 컴파일
-	// 시 인라인 함수로 선언하더라도 상황에 따라 
-	// 일반 함수로 변환되기 합니다. 
-}
-
-void Recursive(int count)
-{
-	if (count > 0)
-	{
-		Recursive(count - 1);
-	}
-	else
-	{
-		return;
-	}
-
-	printf("Recursive Fucntion\n");
-
+	printf("score : %d\n", score);
 }
 
 void main()
 {	
-#pragma region 함수
-	// 하나의 특별한 목적의 작업을 수행하기 위해
-	// 독립적으로 설계된 코드의 집합입니다.
+#pragma region 메모리
 
-	// Function();
+#pragma region CODE 영역
+	// 프로세스가 실행할 코드와 매크로 상수가
+	// 기계어 형태로 저장되는 공간입니다.
+
+#pragma endregion
+
+#pragma region DATA 영역
+	// 전역 변수와 정적 변수가 저장되는 공간입니다.
+
+#pragma endregion
+
+#pragma region BSS 영역
+	// 초기화되지 않은 전역 변수가
+	// 저장되는 공간입니다.
+
+#pragma endregion
+
+#pragma region STACK 영역
+	// 함수의 호출과 관계되는 지역 변수와
+	// 매개 변수가 저장되는 영역입니다.
+
+#pragma endregion
+
+#pragma region HEAP 영역
+	// 사용자가 직접 할당하는 메모리 공간입니다.
+
+#pragma endregion
+
+#pragma endregion
+
+#pragma region 지역 변수
+	// 함수 내부에 선언된 변수로, 함수 내부에서만 사용 가능하며,
+	// { }를 벗어나는 시점에 메모리가 해제되는 특징을 가지고 있는 변수입니다.
+
+	//	int x = 10;
+	//	
+	//	{
+	//		int x = 20;
+	//	
+	//		printf("x의 값 : %d\n", x);
+	//	}
+	//	
+	//	printf("x의 값 : %d\n", x);
+#pragma endregion
+
+#pragma region 전역 변수
+	// 함수 외부에서도 접근이 가능하며, 프로그램이 실행될 때
+	// 메모리에서 생성되고, 프로그램이 종료되어야만 메모리에서 사라지는 
+	// 특징을 가지고 있는 변수입니다.
+
+	// Clear();
+	// Clear();
+	// Clear();
 	// 
-	// Function();
+	// printf("stage변수의 값 : %d\n", stage);
 	// 
-	// Function();
-
-	// 함수의 경우 자료형과 반환하는 값의 형태가
-	// 일치하지 않으면 원하는 값을 얻을 수 없습니다.
+	// printf("count변수의 값 : %d\n", count);
 #pragma endregion
 
-#pragma region 매개 변수
-	// 함수의 정의에서 전달받은 인수를 함수 내부로
-	// 전달하기 위해 사용하는 변수입니다.
+#pragma region 정적 변수
+	// 지역 변수와 전역 변수의 특성을 가지고 있으며, 프로그램이 실행될 때 단 한번만
+	// 초기화가 이루어지며, 프로그램이 실행될 때 메모리에 생성되고 프로그램이 종료
+	// 되어야만 메모리에서 해제되는 특징을 가지고 있는 변수입니다.
 
-	// Position(5, 5);
-
-	// // 매개 변수는 함수 내부에서만 연산이 이루어지며,
-	// // 함수가 종료되면 메모리에서 사라집니다.
-
-	// printf("Compare 함수의 값 : %d\n", Compare(5.75f, 8.125f));
-
-	// 하나의 함수에 서로 다른 자료형의 매개 변수를
-	// 함께 정의할 수 있으며, 여러 개의 매개 변수를
-	// 생성하여 사용할 수 있습니다.
+	// Increase();
+	// Increase();
+	// Increase();
 #pragma endregion
 
-#pragma region 인수
-	// 함수가 호출될 때 매개 변수에 실제로 전달되는
-	// 값입니다.
-
-	// int a = 10;
-	// int b = 20;
-	// 
-	// Swap(&a, &b);
-	// 
-	// printf("a의 값 : %d\n", a);
-	// printf("b의 값 : %d\n", b);
-
-	// 인수의 경우 함수에 있는 매개 변수의 수에 따라
-	// 전달할 수 있는 인수의 수가 결정되며, 값을 전달하는
-	// 인수와 값을 전달받는 매개 변수의 자료형이 서로 일치해야 합니다.
-#pragma endregion
-
-#pragma region 인라인 함수
-	// 함수를 호출하는 대신 함수가 호출되는 위치마다
-	// 함수의 코드를 복사하여 전달하는 방식의 함수입니다.
-
-	// Process(46.7f);
-
-	// 인라인 함수는 함수를 호출하는 과정이 없으므로 처리 속도가
-	// 빠르지만, 인라인 함수를 많이 사용하게 되면 함수의 코드가
-	// 복사되기 때문에 실행 파일의 크기가 커지게 됩니다.
-#pragma endregion
-
-#pragma region 재귀 함수
-	// 어떤 함수에서 자신을 다시 호출하여 작업을
-	// 수행하는 함수입니다.
-
-	// Recursive(3);
-	
-	// 재귀 함수는 함수를 계속 호출하기 때문에 스택 영역
-	// 에 메모리가 계속 쌓이게 되므로 스택 오버플로우가
-	// 발생하게 됩니다.
-#pragma endregion
 
 }
