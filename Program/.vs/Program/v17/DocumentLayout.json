@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{D02E097E-5388-477C-B0EB-60EF7A0FE789}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{453892D2-31F4-4C62-A72B-E06B8962C211}|..\\Class11th (Dynamic Allocation)\\Class11th (Dynamic Allocation).vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class11th (Dynamic Allocation)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E54EBDA6-F54A-4CDC-8377-32520D0CE9A1}|..\\Class10th (Function)\\Class10th (Function).vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Function)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -44,11 +47,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class11th (Dynamic Allocation)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class11th (Dynamic Allocation)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class11th (Dynamic Allocation)\\Source.c",
+              "RelativeToolTip": "..\\Class11th (Dynamic Allocation)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T10:41:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Function)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class10th (Function)\\Source.c",
@@ -56,12 +72,11 @@
               "RelativeToolTip": "..\\Class10th (Function)\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-29T09:33:43.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T09:33:43.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class9th (Arrangement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class9th (Arrangement)\\Source.c",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class8th (Pointer)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class8th (Pointer)\\Source.c",
@@ -97,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class7th (Iteration Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class7th (Iteration Statement)\\Source.c",
@@ -109,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class6th (Type Conversion)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class6th (Type Conversion)\\Source.c",
@@ -121,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class4th (Overflow \u0026 Underflow)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
@@ -133,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class3th (Bit)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
@@ -145,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class2th (Variable)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Variable)\\Source.c",
@@ -157,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class1th (Compile)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (Compile)\\Source.c",
@@ -175,7 +190,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-12T09:23:48.289Z",
               "EditorCaption": ""
