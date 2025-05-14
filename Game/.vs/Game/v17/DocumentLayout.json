@@ -1,10 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FD53097-C6FF-4C0E-BD95-0163F94B9AAB}|Game.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2FD53097-C6FF-4C0E-BD95-0163F94B9AAB}|Game.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Game\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2FD53097-C6FF-4C0E-BD95-0163F94B9AAB}|Game.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B95B295-FC8A-4446-BE8B-D76D7132747E}|..\\Class2th (GetAsyncKeyState)\\Class2th (GetAsyncKeyState).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class2th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD53097-C6FF-4C0E-BD95-0163F94B9AAB}|Game.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F981C95-F094-4DF4-9CF7-846792654BDB}|..\\Class1th (Pseudo Random Number)\\Class1th (Pseudo Random Number).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class1th (Pseudo Random Number)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +47,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class2th (GetAsyncKeyState)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class2th (GetAsyncKeyState)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class2th (GetAsyncKeyState)\\Source.c",
+              "RelativeToolTip": "..\\Class2th (GetAsyncKeyState)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-14T12:38:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHcCAAAAAAAAAAArwIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-14T12:36:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class1th (Pseudo Random Number)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th (Pseudo Random Number)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class1th (Pseudo Random Number)\\Source.c",
+              "RelativeToolTip": "..\\Class1th (Pseudo Random Number)\\Source.c",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-14T11:15:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Game\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Game\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-13T11:07:26.726Z",
               "EditorCaption": ""
