@@ -1,0 +1,3 @@
+Health : 100  
+Attack : 20 
+Defense : 10 
