@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{2FD53097-C6FF-4C0E-BD95-0163F94B9AAB}|Game.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D89F941-726E-4E90-B373-92D0B8464D87}|..\\Class6th (Double Buffering)\\Class6th (Double Buffering).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class6th (Double Buffering)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4094DC6-FEB1-4635-BEAD-4DF45A119E32}|..\\Class5th (File Input \u0026 Output)\\Class5th (File Input \u0026 Output).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class5th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -32,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +61,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class6th (Double Buffering)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class6th (Double Buffering)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class6th (Double Buffering)\\Source.c",
+              "RelativeToolTip": "..\\Class6th (Double Buffering)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T11:30:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class5th (File Input \u0026 Output)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class5th (File Input \u0026 Output)\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class5th (File Input \u0026 Output)\\Source.c",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class4th (Enumeration)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class4th (Enumeration)\\Source.c",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class3th (Mouse)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class3th (Mouse)\\Source.c",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class2th (GetAsyncKeyState)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th (GetAsyncKeyState)\\Source.c",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class1th (Pseudo Random Number)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (Pseudo Random Number)\\Source.c",
@@ -134,7 +150,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Game\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAvwG8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-13T11:07:26.726Z",
               "EditorCaption": ""

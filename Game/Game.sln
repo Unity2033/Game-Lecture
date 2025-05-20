@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Enumeration)", ".
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (File Input & Output)", "..\Class5th (File Input & Output)\Class5th (File Input & Output).vcxproj", "{E4094DC6-FEB1-4635-BEAD-4DF45A119E32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class6th (Double Buffering)", "..\Class6th (Double Buffering)\Class6th (Double Buffering).vcxproj", "{5D89F941-726E-4E90-B373-92D0B8464D87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{E4094DC6-FEB1-4635-BEAD-4DF45A119E32}.Release|x64.Build.0 = Release|x64
 		{E4094DC6-FEB1-4635-BEAD-4DF45A119E32}.Release|x86.ActiveCfg = Release|Win32
 		{E4094DC6-FEB1-4635-BEAD-4DF45A119E32}.Release|x86.Build.0 = Release|Win32
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Debug|x64.ActiveCfg = Debug|x64
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Debug|x64.Build.0 = Debug|x64
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Debug|x86.Build.0 = Debug|Win32
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Release|x64.ActiveCfg = Release|x64
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Release|x64.Build.0 = Release|x64
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Release|x86.ActiveCfg = Release|Win32
+		{5D89F941-726E-4E90-B373-92D0B8464D87}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
