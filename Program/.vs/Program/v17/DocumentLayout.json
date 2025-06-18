@@ -3,6 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class4th (Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF65E9CA-E594-4C7B-8235-80E693198E31}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BBEA896F-243C-4DBC-88B2-F3B582D8D761}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBEA896F-243C-4DBC-88B2-F3B582D8D761}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -51,6 +70,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Consumable.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.cpp",
+              "RelativeDocumentMoniker": "Consumable.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.cpp",
+              "RelativeToolTip": "Consumable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:34:45.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Potion.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.cpp",
+              "RelativeDocumentMoniker": "Potion.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.cpp",
+              "RelativeToolTip": "Potion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:34:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumable.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.h",
+              "RelativeDocumentMoniker": "Consumable.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.h",
+              "RelativeToolTip": "Consumable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:34:40.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Potion.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.h",
+              "RelativeDocumentMoniker": "Potion.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.h",
+              "RelativeToolTip": "Potion.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:34:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class4th (Inheritance)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class4th (Inheritance)\\Source.cpp",
+              "RelativeToolTip": "..\\Class4th (Inheritance)\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:19:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -58,12 +142,11 @@
               "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T12:31:58.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T12:31:58.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -75,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -87,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -95,18 +178,17 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "ViewState": "AQIAAB8AAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:31:37.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:31:37.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:06:13.367Z",
               "EditorCaption": ""
