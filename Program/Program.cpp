@@ -1,29 +1,26 @@
 ﻿#include <iostream>
-#include "Brooch.h"
-#include "Necklace.h"
+#include "Vector2.h"
 
 using namespace std;
 
 int main()
 {
-#pragma region 추상화
-	// 복잡한 시스템이나 객체의 내부의 세부사항은 숨기고, 필요한 부분만을
-	// 외부에서 사용할 수 있게 단순화시키는 기능입니다. 
+#pragma region 캡슐화
+	// 객체의 상태와 그 상태를 조작하는 기능을 하나로 합친 다음,
+	// 객체 외부에서 직접 접근하지 못하도록 제한하는 기능입니다.
 
-	Accessory * pointer = new Brooch;
+	Vector2 vector1;
+	Vector2 vector2;
 
-	pointer->Effect();
+	vector1.Coodinate(1, 1);
+	vector2.Coodinate(2, 3);
 
-	delete pointer;
+	Vector2 direction = vector1 + vector2;
 
-	pointer = new Necklace;
+	cout << "direction X : " << direction.X() << endl;
+	cout << "direction Y : " << direction.Y() << endl;
 
-	pointer->Effect();
 
-	delete pointer;
-
-	// 추상 클래스는 정의되어 있지 않은 함수가 있으므로, 
-	// 객체를 생성할 수 없습니다.
 #pragma endregion
 
 

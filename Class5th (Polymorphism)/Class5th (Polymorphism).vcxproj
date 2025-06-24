@@ -127,21 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Program\Circle.cpp" />
-    <ClCompile Include="..\Program\Firebat.cpp" />
-    <ClCompile Include="..\Program\Ghost.cpp" />
-    <ClCompile Include="..\Program\Marine.cpp" />
-    <ClCompile Include="..\Program\Shape.cpp" />
-    <ClCompile Include="..\Program\Terran.cpp" />
+    <ClCompile Include="..\Program\Earth.cpp" />
+    <ClCompile Include="..\Program\Planet.cpp" />
+    <ClCompile Include="..\Program\Saturn.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Program\Circle.h" />
-    <ClInclude Include="..\Program\Firebat.h" />
-    <ClInclude Include="..\Program\Ghost.h" />
-    <ClInclude Include="..\Program\Marine.h" />
-    <ClInclude Include="..\Program\Shape.h" />
-    <ClInclude Include="..\Program\Terran.h" />
+    <ClInclude Include="..\Program\Earth.h" />
+    <ClInclude Include="..\Program\Planet.h" />
+    <ClInclude Include="..\Program\Saturn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

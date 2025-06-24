@@ -127,15 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Accessory.cpp" />
-    <ClCompile Include="Brooch.cpp" />
-    <ClCompile Include="Necklace.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Vector2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Accessory.h" />
-    <ClInclude Include="Brooch.h" />
-    <ClInclude Include="Necklace.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

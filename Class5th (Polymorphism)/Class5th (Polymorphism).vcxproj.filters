@@ -18,42 +18,24 @@
     <ClCompile Include="Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Circle.cpp">
+    <ClCompile Include="..\Program\Planet.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Firebat.cpp">
+    <ClCompile Include="..\Program\Earth.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Program\Ghost.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Program\Marine.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Program\Shape.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Program\Terran.cpp">
+    <ClCompile Include="..\Program\Saturn.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Program\Circle.h">
+    <ClInclude Include="..\Program\Planet.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\Program\Firebat.h">
+    <ClInclude Include="..\Program\Saturn.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\Program\Ghost.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Program\Marine.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Program\Shape.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Program\Terran.h">
+    <ClInclude Include="..\Program\Earth.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

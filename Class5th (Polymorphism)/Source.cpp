@@ -1,8 +1,7 @@
 ﻿#include <iostream>
-#include "../Program/Circle.h"
-#include "../Program/Ghost.h"
-#include "../Program/Marine.h"
-#include "../Program/Firebat.h"
+#include "../Program/Earth.h"
+#include "../Program/Saturn.h"
+
 
 using namespace std;
 
@@ -49,11 +48,7 @@ int main()
 	// 상위 클래스에 있는 함수를 하위 클래스에서 재정의
 	// 하여 사용하는 기능입니다.
 
-	// Shape shape;
-	// Circle circle;
-	// 
-	// shape.Volume();
-	// circle.Volume();
+
 
 	// 함수의 오버라이딩은 하위 클래스에서 함수를 재정의할 때
 	// 상위 클래스의 함수 형태와 일치해야 합니다.
