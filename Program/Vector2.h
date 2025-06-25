@@ -16,5 +16,11 @@ public:
 	const Vector2 & operator / (const Vector2 & vector2);
 	const Vector2 & operator & (const Vector2 & vector2);
 
+	const Vector2& operator++();
+	const Vector2& operator--();
+	const Vector2& operator++(int);
+	const Vector2& operator--(int);
+
+
 };
 

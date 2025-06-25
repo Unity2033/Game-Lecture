@@ -65,3 +65,43 @@ const Vector2& Vector2::operator&(const Vector2& vector2)
 
 	return clone;
 }
+
+const Vector2& Vector2::operator++()
+{
+	this->x++;
+	this->y++;
+
+	return *this;
+}
+
+const Vector2& Vector2::operator--()
+{
+	this->x--;
+	this->y--;
+
+	return *this;
+}
+
+const Vector2& Vector2::operator++(int)
+{
+	Vector2 clone;
+
+	clone.Coodinate(x, y);
+
+	this->x++;
+	this->y++;
+
+	return clone;
+}
+
+const Vector2& Vector2::operator--(int)
+{
+	Vector2 clone;
+
+	clone.Coodinate(x, y);
+
+	this->x--;
+	this->y--;
+
+	return clone;
+}

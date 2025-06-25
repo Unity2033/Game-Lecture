@@ -1,26 +1,63 @@
 ﻿#include <iostream>
-#include "Vector2.h"
 
 using namespace std;
 
+template <typename T>
+bool Same(T left, T right)
+{
+	return left == right;
+}
+
+template<>
+bool Same(const char* left, const char* right)
+{
+	return strlen(left) == strlen(right);
+}
+
+template<typename T>
+class Container
+{
+private:
+	int index;
+
+	T list[5];
+
+public:
+	Container()
+	{
+		index = 0;
+
+		for (int i = 0; i < 5; i++)
+		{
+			list[i] = NULL;
+		}
+	}
+};
+
 int main()
 {
-#pragma region 캡슐화
-	// 객체의 상태와 그 상태를 조작하는 기능을 하나로 합친 다음,
-	// 객체 외부에서 직접 접근하지 못하도록 제한하는 기능입니다.
+#pragma region 템플릿
+	// 데이터 형식의 의존하지 않고, 하나의 값이 여러 다른 데이터 
+	// 형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
+	// 있는 기능입니다.
 
-	Vector2 vector1;
-	Vector2 vector2;
+	// cout << Same('A', 'A') << endl;
+	// 
+	// cout << Same(10, 10) << endl;  
+	// 
+	// cout << Same(5.75f, 1.25f) << endl;
+	// 
+	// cout << Same(10.125, 3.625) << endl;
 
-	vector1.Coodinate(1, 1);
-	vector2.Coodinate(2, 3);
+	Container<int> container;
+#pragma endregion
 
-	Vector2 direction = vector1 + vector2;
+#pragma region 템플릿 특수화
+	// 특정 자료형에 대해 다르게 처리하고 싶은 경우
+	// 특정한 자료형만 다른 형식으로 동작시키는 기능입니다.
 
-	cout << "direction X : " << direction.X() << endl;
-	cout << "direction Y : " << direction.Y() << endl;
-
-
+	// cout << Same("League", "Legend") << endl;
+	// cout << Same("School", "Teacher") << endl;
 #pragma endregion
 
 

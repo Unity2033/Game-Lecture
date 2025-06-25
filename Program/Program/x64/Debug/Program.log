@@ -1,5 +1,2 @@
 ﻿  Program.cpp
-  Vector2.cpp
-  코드를 생성하고 있습니다...
-C:\Users\Administrator\Desktop\Game-Academy\Program\Vector2.cpp(26,1): warning C4172: 지역 변수 또는 임시: clone의 주소를 반환하고 있습니다.
   Program.vcxproj -> C:\Users\Administrator\Desktop\Game-Academy\Program\x64\Debug\Program.exe

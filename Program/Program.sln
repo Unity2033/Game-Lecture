@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Polymorphism)", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class6th (Abstract)", "..\Class6th (Abstract)\Class6th (Abstract).vcxproj", "{4202C66C-CBBD-4F7E-B0F6-81B6DE611D2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th (Encapsulation)", "..\Class7th (Encapsulation)\Class7th (Encapsulation).vcxproj", "{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{4202C66C-CBBD-4F7E-B0F6-81B6DE611D2F}.Release|x64.Build.0 = Release|x64
 		{4202C66C-CBBD-4F7E-B0F6-81B6DE611D2F}.Release|x86.ActiveCfg = Release|Win32
 		{4202C66C-CBBD-4F7E-B0F6-81B6DE611D2F}.Release|x86.Build.0 = Release|Win32
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Debug|x64.ActiveCfg = Debug|x64
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Debug|x64.Build.0 = Debug|x64
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Debug|x86.Build.0 = Debug|Win32
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Release|x64.ActiveCfg = Release|x64
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Release|x64.Build.0 = Release|x64
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Release|x86.ActiveCfg = Release|Win32
+		{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
