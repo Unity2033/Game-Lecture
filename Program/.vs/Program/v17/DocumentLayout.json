@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{BBEA896F-243C-4DBC-88B2-F3B582D8D761}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1418C009-A7B9-40A3-A63C-1072397DDDB5}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3B7225E-3CE4-4F30-B6A2-7FE83338BE9F}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -42,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,18 +71,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class8th (Template)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class8th (Template)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Template)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:37:03.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-25T11:10:20.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T11:10:20.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class6th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
@@ -91,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
@@ -103,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -115,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
@@ -127,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Class4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
@@ -145,14 +160,14 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAuwDwAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:06:13.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -164,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Academy\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
