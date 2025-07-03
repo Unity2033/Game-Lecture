@@ -1,55 +1,37 @@
 ﻿#include <iostream>	   
-#include <stack>
-#include <queue>
+#include <unordered_set>
+
 
 using namespace std;
 
 int main()
 {
-#pragma region 컨테이너 어댑터
-	// 기존 컨테이너의 인터페이스를 제한하여 만든 기능이
-	// 제한되거나 변경된 컨테이너입니다.
+#pragma region unordered set
 
-#pragma region stack container
+	std::unordered_set<const char *> unordered_set;
 
-	//	std::stack<int> stack;
-	//	
-	//	stack.push(10);
-	//	stack.push(20);
-	//	stack.push(30);
-	//	stack.push(40);
-	//	stack.push(50);
-	//	
-	//	while (stack.empty() == false)
-	//	{
-	//		cout << stack.top() << " ";
-	//	
-	//		stack.pop();
-	//	}
+	unordered_set.max_load_factor(2.0);
 
-#pragma endregion
+	unordered_set.insert("Messi");
+	unordered_set.insert("Hazard");
+	unordered_set.insert("Ronaldo");
+	unordered_set.insert("Ronaldo1");
+	unordered_set.insert("Ronaldo2");
+	unordered_set.insert("Ronaldo3");
+	unordered_set.insert("Ronaldo4");
+	unordered_set.insert("Ronaldo5");
+	unordered_set.insert("Ronaldo6");
 
-#pragma region queue container
+	cout << "Bucket Count : " << unordered_set.bucket_count() << endl;
 
-	//	std::queue<int> queue;
-	//	
-	//	queue.push(10);
-	//	queue.push(20);
-	//	queue.push(30);
-	//	queue.push(40);
-	//	queue.push(50);
-	//	
-	//	while (queue.empty() == false)
-	//	{
-	//		cout << queue.front() << " ";
-	//	
-	//		queue.pop();
-	//	}
-
-#pragma endregion
+	for (const char * element : unordered_set)
+	{
+		cout << element << endl;
+	}
 
 
 #pragma endregion
+
 
 
 	return 0;
