@@ -123,10 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Diamond.cpp" />
+    <ClCompile Include="Emerald.cpp" />
+    <ClCompile Include="Material.cpp" />
     <ClCompile Include="Program.cpp" />
     <ClCompile Include="Publisher.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Diamond.h" />
+    <ClInclude Include="Emerald.h" />
+    <ClInclude Include="Material.h" />
     <ClInclude Include="Publisher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
