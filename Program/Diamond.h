@@ -10,5 +10,7 @@ public:
 	Diamond();
 
 	void Describe();
+
+	virtual void Promote() override;
 };
 

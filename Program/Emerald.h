@@ -11,5 +11,6 @@ public:
 
 	void Describe();
 
+	virtual void Promote() override;
 };
 

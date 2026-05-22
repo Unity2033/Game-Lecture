@@ -13,3 +13,10 @@ void Emerald::Describe()
 	cout << "Weight : " << weight << "g" << endl;
 	cout << "Clarity : " << clarity << "\n" << endl;	
 }
+
+void Emerald::Promote()
+{
+	cout << "Annie" << endl;
+	cout << "Emerald Boader" << endl;
+	cout << "Eternals Capsule\n" << endl;
+}

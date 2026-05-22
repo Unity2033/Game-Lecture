@@ -14,3 +14,12 @@ void Diamond::Describe()
 	cout << "Weight : " << weight << "g" << endl;
 	cout << "Hardness : " << hardness << endl;
 }
+
+void Diamond::Promote()
+{
+	cout << "Katarina" << endl;
+	cout << "Essence Shard" << endl;
+	cout << "Diamond Boader" << endl;
+	cout << "Eternals Capsule\n" << endl;
+
+}
