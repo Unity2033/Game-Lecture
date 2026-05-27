@@ -124,11 +124,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Antidote.cpp" />
     <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Polaroid.cpp" />
     <ClCompile Include="Program.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Antidote.h" />
     <ClInclude Include="Item.h" />
+    <ClInclude Include="Polaroid.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

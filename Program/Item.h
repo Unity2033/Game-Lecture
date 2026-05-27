@@ -5,6 +5,7 @@ private:
 	const char* name;
 
 public :
-	Item();
+
+	virtual void Use() = 0;
 };
 
