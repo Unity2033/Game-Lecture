@@ -1,51 +1,18 @@
 ﻿#include "stdafx.h"
-#include "Antidote.h"
-#include "Polaroid.h"
+#include "Position.h"
 
 int main()
 {
-#pragma region 추상화
-    // 복잡한 시스템이나 객체의 내부에 있는 세부 사항을 숨기고,
-    // 필요한 부분만 외부에서 사용할 수 있도록 단순화시키는 작업입니다.
+#pragma region 캡슐화
+    // 객체의 속성과 기능을 하나의 단위로 합친 다음 외부에서
+    // 필요한 정보만 접근할 수 있도록 제한하는 기능입니다.
 
-    Item * list[5] = { nullptr, };
+    Position point1D(1, 0);
+    Position point2D(0, 1);
 
-    list[0] = new Antidote;
-    list[1] = new Polaroid;
+    Position direction = point1D + point2D;
 
-    int selection = 0;
-
-    while (true)
-    {
-        cout << "Enter a number from 0 to 4 : ";
-
-        cin >> selection;
-
-        cout << endl;
-
-        if (selection <= 5)
-        {
-            if (list[selection] == nullptr)
-            {
-                cout << "Slot is empty\n" << endl;
-            }
-            else
-            {
-                list[selection]->Use();
-            }
-        }
-        else
-        {
-            cout << "Invalid input\n" << endl;
-        }
-    }
-
-
-    // 추상 클래스는 정의되어 있지 않은 함수가 있으므로,
-    // 객체를 생성할 수 없습니다.
 #pragma endregion
-
-
 
 
     return 0;

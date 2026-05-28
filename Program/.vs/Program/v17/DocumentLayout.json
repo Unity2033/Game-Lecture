@@ -3,32 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Polaroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Antidote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Polaroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|solutionrelative:Antidote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC63200B-38BB-40B2-B3AF-F46DE78A5856}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDC1F091-D4ED-4A26-96AF-01F5D4673D50}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -84,8 +89,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Position.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.cpp",
+              "RelativeDocumentMoniker": "Position.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.cpp",
+              "RelativeToolTip": "Position.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T10:15:17.867Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
@@ -93,83 +111,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Polaroid.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.cpp",
-              "RelativeDocumentMoniker": "Polaroid.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.cpp",
-              "RelativeToolTip": "Polaroid.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-27T10:02:32.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Polaroid.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.h",
-              "RelativeDocumentMoniker": "Polaroid.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Polaroid.h",
-              "RelativeToolTip": "Polaroid.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "Position.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.h",
+              "RelativeDocumentMoniker": "Position.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Position.h",
+              "RelativeToolTip": "Position.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-27T10:01:34.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Antidote.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.cpp",
-              "RelativeDocumentMoniker": "Antidote.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.cpp",
-              "RelativeToolTip": "Antidote.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-27T10:01:09.167Z",
+              "WhenOpened": "2026-05-28T10:15:15.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Antidote.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.h",
-              "RelativeDocumentMoniker": "Antidote.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Antidote.h",
-              "RelativeToolTip": "Antidote.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-27T10:01:04.341Z",
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Item.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:34:29.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.h",
-              "RelativeDocumentMoniker": "Item.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.h",
-              "RelativeToolTip": "Item.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T10:32:14.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Emerald.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Emerald.h",
-              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Emerald.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Emerald.h",
-              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Emerald.h",
+              "DocumentIndex": 7,
+              "Title": "Polaroid.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.h",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Polaroid.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.h",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Polaroid.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T10:21:29.559Z"
+              "WhenOpened": "2026-05-28T09:34:28.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Antidote.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.h",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Antidote.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.h",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Antidote.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T09:30:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.h",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Item.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Item.h",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T09:30:08.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:27:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Material.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Material.h",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Material.h",
@@ -181,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Platinum.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Platinum.h",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Platinum.h",
@@ -193,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Publisher.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Publisher.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Publisher.cpp",
@@ -205,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Material.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Material.cpp",
@@ -217,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Platinum.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Platinum.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Platinum.cpp",
@@ -229,33 +248,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAxwA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-13T09:09:07.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Item.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.cpp",
-              "RelativeDocumentMoniker": "Item.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\Item.cpp",
-              "RelativeToolTip": "Item.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Polaroid.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Polaroid.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Polaroid.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Polaroid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-26T10:32:19.506Z",
+              "WhenOpened": "2026-05-28T09:32:30.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "Antidote.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Antidote.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class6th (Abstract)\\Antidote.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Antidote.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:34:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Emerald.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Emerald.h",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Emerald.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Emerald.h",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Emerald.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T10:21:29.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T10:30:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Diamond.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Diamond.h",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Diamond.h",
@@ -267,19 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\stdafx.h",
-              "RelativeDocumentMoniker": "stdafx.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Program\\stdafx.h",
-              "RelativeToolTip": "stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T10:30:24.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
@@ -291,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -303,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -315,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
@@ -327,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Diamond.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class5th (Polymorphism)\\Diamond.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Diamond.cpp",
@@ -339,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -351,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Lecture\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
