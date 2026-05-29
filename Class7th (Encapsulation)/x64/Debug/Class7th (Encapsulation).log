@@ -1,0 +1,10 @@
+﻿  Position.cpp
+  Source.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(62,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(14,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(72,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(21,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(28,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\Game-Lecture\Class7th (Encapsulation)\Position.cpp(35,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+  Class7th (Encapsulation).vcxproj -> C:\Users\Administrator\Desktop\Game-Lecture\Program\x64\Debug\Class7th (Encapsulation).exe
